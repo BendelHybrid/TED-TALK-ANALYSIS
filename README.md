@@ -1,4 +1,4 @@
-# Maven Toys: Unwrapping the TED Talk Analysis
+### Maven Toys: Unwrapping the TED Talk Analysis
 
 ## Project Name: Ted Talk Analysis
 
