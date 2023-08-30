@@ -1,6 +1,6 @@
-# TED-TALK-ANALYSIS
+# Maven Toys: Unwrapping the TED Talk Analysis
 
-## Project Name: Maven Toys - Ted Talk Analysis
+## Project Name: Ted Talk Analysis
 
 ### Dataset: [Maven Toys - Ted Talk Dataset](link-to-dataset)
 
