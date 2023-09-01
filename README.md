@@ -11,11 +11,6 @@ Embarked on an illuminating journey through the captivating world of Ted Talks, 
 
 ---
 
-### Data Insight:
-Delved into the treasure trove of sales and inventory data pertaining to Maven Toys, a fictitious toy store chain based in Mexico. Unearthed the intriguing stories woven by products, stores, daily sales transactions, and the ebb and flow of inventory levels across the various enchanting locations.
-
----
-
 ### Recommended Analysis:
 1. **Likes Leaderboard:** Envisioned a visual gallery spotlighting the speaker who magnetized the highest number of likes, offering a glimpse into the resonating impact of their message.
 2. **Views Vanguard:** Pioneered an exploration into the talk that drew the highest number of views, unearthing the conversations that captured the global audience's imagination.
