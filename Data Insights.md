@@ -1,1 +1,0 @@
-Delved into the treasure trove of sales and inventory data pertaining to Maven Toys, a fictitious toy store chain based in Mexico. Unearthed the intriguing stories woven by products, stores, daily sales transactions, and the ebb and flow of inventory levels across the various enchanting locations.
